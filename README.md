@@ -1,1 +1,1 @@
-# stepin_Election_mangement of voting-process
+# stepin_Election_mangement of voting process
