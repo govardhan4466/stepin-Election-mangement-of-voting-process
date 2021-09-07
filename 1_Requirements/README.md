@@ -10,14 +10,8 @@ A Calculator is a small electronic device used to perform various arithmetic ope
     • subtraction 
     • multiplication 
     • division
-    • square
-    • square root
-    • sign
-    • logarithm
-    • binary functions
-    • cosine, tangent functions
-    • percent, exponential
-    • memory function
+    . modulo
+    • close
 
 
  ## 4W’S AND 1 H 
