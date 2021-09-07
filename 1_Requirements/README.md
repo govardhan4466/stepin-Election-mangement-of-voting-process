@@ -43,8 +43,10 @@ This project can perform various calculations and makers use it smoothly and eff
 
 ## HIGH LEVEL REQUIREMENTS:
 
-ID      |            Description                           |   status(implemented)
+ID      | Description                           |   status(implemented)
+
 HLR -1  |   User should give input                         |      implemented
+
 HLR-2   |  System must display output with out any errors  |       implemented
 
 
@@ -53,6 +55,7 @@ HLR-2   |  System must display output with out any errors  |       implemented
 ## LOW LEVEL REQUIREMENT:
 
 ID     |       Description                              |        status(implemented)
+
 HLR-1  |      User should able to read the output data   |       implemented
 
 
