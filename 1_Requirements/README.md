@@ -45,7 +45,7 @@ This project can perform various calculations and makers use it smoothly and eff
 
 ID      | Description                           |   status(implemented)
 
-HLR -1  |   User should give input                         |      implemented
+HLR -1  |   User should give input and get output                         |      implemented
 
 HLR-2   |  System must display output with out any errors  |       implemented
 
