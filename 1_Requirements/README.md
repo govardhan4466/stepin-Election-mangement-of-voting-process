@@ -13,14 +13,28 @@ A Calculator is a small electronic device used to perform various arithmetic ope
     . modulo
     . square root
     • close
-## Defining your system
-![calculator pic](https://user-images.githubusercontent.com/89696284/132345243-024fe7c3-fe67-420d-b1a3-d5f8c735d34d.png)
+
+
+## SWOT ANALAYSIS
+
+## STRENGTH
+The ultimate strength Calculators is its innovative,user-friendly and long lasting etc..
+
+## WEAKNESS
+do not inlude all the operations rather have onlty addition,subtraction multiplication, division ,modulas ,power and factorial.
+
+## OPPORTUNITIES
+The tech-based market has a huge opportunities in capturing the youth market. And this calculator comparatively already one step ahead than other
+
+## THERATS
+The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
+
 
  ## 4W’S AND 1 H 
 
 ## WHO:
 1.Electronic Engineering Student
-2.Developer
+2.To reduce the complexity for students and working professionals.
 
 ## WHAT:
 A person can use simple calculator application and  can get results by giving  inputs and get outputs. 
@@ -39,11 +53,13 @@ This project can perform various calculations and makers use it smoothly and eff
 
 ## HIGH LEVEL REQUIREMENTS:
 
-ID      | Description                           |   status(implemented)
+ID      | Description                                      |   status(implemented)
 
-HLR -1  |   User should give input and get output                         |      implemented
+HLR -1  |   User should give input and get output          |      implemented
 
 HLR-2   |  System must display output with out any errors  |       implemented
+
+HLR-2   |  System must display functions                   |   implemented
 
 
 
@@ -54,6 +70,13 @@ ID     |       Description                              |        status(implemen
 
 HLR-1  |      User should able to read the output data   |       implemented
 
+HLR-2  |     Addtions                                    | implemented
+
+HLR-3 |  Subtractions                                   | implemented
+
+HLR-4 |  Multiplication                                 | implemented
+
+HLR-5 | Modulus                                         implemented
 
 
 
